@@ -1,2 +1,5 @@
-# Atividade-sobre-Fundamentos-do-React---2021.
-Trabalho 06 de Pw.
+# Fundamentos de React - Parte 1.
+
+Continuidade nas aulas de react.
+
+Autor: Gustavo Feijó Rocha.
